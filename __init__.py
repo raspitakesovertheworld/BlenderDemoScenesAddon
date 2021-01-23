@@ -18,7 +18,7 @@
 
 
 #TODOS:
-#changed the register method to 2.8 style
+#changed the register method to 2.8 2.9 style
 #
 
 
